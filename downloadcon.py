@@ -2,7 +2,7 @@
 #说明：本程序用于从https://github.com/Alvin9999/new-pac/wiki下载goflyway\ss\ssr\v2ray的配置文件。
 #程序运行格式：
 #    python downloadcon.py
-#存储路径：D:\works\software\VPN\dongtaiwang\
+#存储路径：D:\software\vpn软件客户端\dongtaiwang\
 ##————————————————————————————————————————————##
 
 import requests
